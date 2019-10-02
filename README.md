@@ -9,6 +9,7 @@ Release tags correspond to Terragrunt versions, and bundle with the latest Terra
 ## Releases
 | Release & Terragrunt | Terraform |
 | --- | --- |
+| v0.19.27 | 0.12.9 |
 | v0.19.26 | 0.12.9 |
 | v0.19.25 | 0.12.9 |
 | v0.19.24 | 0.12.8 |
